@@ -1,0 +1,27 @@
+{
+  "name": "soundspot",
+  "version": "1.0.0",
+  "description": "An app to play music using the Spotify API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ragnaric/SoundSpot.git"
+  },
+  "keywords": [
+    "music",
+    "SpotifyAPI",
+    "express"
+  ],
+  "author": "Jonathan Navarrete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ragnaric/SoundSpot/issues"
+  },
+  "homepage": "https://github.com/Ragnaric/SoundSpot#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
